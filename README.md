@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **low level programming and system programming.**
 
-- 💬 Ask me about **Minecraft Modding.**
-
 - 📫 How to reach me **marcomsantos98@gmail.com**
 
 - ⚡ Fun fact **I play League**
