@@ -11,5 +11,3 @@
 
 
 <h1 align="center"></h1>
-
-Check [FInISHED wORK](https://github.com/FInISHED-wORK) for *finished projects*.
